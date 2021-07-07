@@ -9,7 +9,6 @@ class CalcController {
         let displayCalcEl = document.querySelector("#display");
         let timeCalcEl = document.querySelector("#hora");
         let dateCalcEl = document.querySelector("#data");
-
         displayCalcEl.innerHTML = "Eduardo"
     }
 
